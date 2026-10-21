@@ -1,0 +1,7 @@
+{
+  "name": "Attuned · Goddess Cycle Sanctuary",
+  "description": "An empowering, African goddess-inspired cycle and mood sanctuary tailored for cycle syncing, PMDD support, evening rituals, and mind-body harmony.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
